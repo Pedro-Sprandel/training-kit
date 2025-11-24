@@ -1,4 +1,4 @@
-# GitHub Training Kit
+# Aula de segunda feira com o Assis
 
 Open source courseware from the GitHub Professional Services team.
 
